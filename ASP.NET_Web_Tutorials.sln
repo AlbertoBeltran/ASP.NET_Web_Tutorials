@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMovie", "MvcMovie\MvcMovie.csproj", "{5F26CA4D-270F-41EB-8CEB-0BB6F49A132B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvc5logintest", "mvc5logintest\mvc5logintest.csproj", "{7B5EE033-6F64-4BC6-B07A-4B280DCF968A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevinsTest", "DevinsTest\DevinsTest.csproj", "{BDE1F21E-EC42-4257-81F6-29FF1C5A857A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F26CA4D-270F-41EB-8CEB-0BB6F49A132B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F26CA4D-270F-41EB-8CEB-0BB6F49A132B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F26CA4D-270F-41EB-8CEB-0BB6F49A132B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F26CA4D-270F-41EB-8CEB-0BB6F49A132B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B5EE033-6F64-4BC6-B07A-4B280DCF968A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B5EE033-6F64-4BC6-B07A-4B280DCF968A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B5EE033-6F64-4BC6-B07A-4B280DCF968A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B5EE033-6F64-4BC6-B07A-4B280DCF968A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDE1F21E-EC42-4257-81F6-29FF1C5A857A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE1F21E-EC42-4257-81F6-29FF1C5A857A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE1F21E-EC42-4257-81F6-29FF1C5A857A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE1F21E-EC42-4257-81F6-29FF1C5A857A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
